@@ -1,0 +1,37 @@
+{
+      "entity.player.east_germeny": {
+        "sounds": [
+          {
+            "name": "damage/germeny"
+          },
+          {
+            "name": "damage/germeny"
+          },
+          {
+            "name": "damage/germeny"
+          },
+          {
+            "name": "damage/germeny"
+          }
+        ],
+        "subtitle": "Hurt"
+      },
+
+      "entity.player.soviet": {
+            "sounds": [
+                  {
+                    "name": "damage/soviet"
+                  },
+                  {
+                    "name": "damage/soviet"
+                  },
+                  {
+                    "name": "damage/soviet"
+                  },
+                  {
+                    "name": "damage/soviet"
+                  }
+                ],
+            "subtitle": "Hurt"
+      }
+}
