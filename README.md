@@ -11,3 +11,6 @@
 - 输入 `/playsound entity.player.east_germany` 你就会听到德意志民主共和国国歌《从废墟中崛起》
 
 - 输入 `/playsound entity.player.soviet` 你就会听到苏联国歌《牢不可破的联盟》
+
+# The End Prom
+汉化终末之诗

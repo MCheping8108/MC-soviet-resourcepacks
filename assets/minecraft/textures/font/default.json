@@ -3,7 +3,8 @@
 		{
 			"type": "ttf",
 			"file": "Chinglish-Regular.ttf",
-			"size": 12
+			"size": 12,
+			"oversample": 6
 		}
 	]
 }

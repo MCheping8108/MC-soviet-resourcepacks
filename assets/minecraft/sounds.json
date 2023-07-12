@@ -1,5 +1,5 @@
 {
-      "entity.player.east_germeny": {
+      "music.east_germeny": {
         "sounds": [
           {
             "name": "damage/germeny"
@@ -17,7 +17,7 @@
         "subtitle": "Hurt"
       },
 
-      "entity.player.soviet": {
+      "music.soviet": {
             "sounds": [
                   {
                     "name": "damage/soviet"

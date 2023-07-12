@@ -1,0 +1,13 @@
+{
+      "pack": { 
+            "pack_format": 9,
+            "description": "你好，我的世界"
+      },
+      "language": {
+      "LANG_COUNTRY": {
+            "name": "heping-Chinese",
+            "region": "CN/TIANJIN",
+            "bidirectional": false
+            }
+      }
+}
